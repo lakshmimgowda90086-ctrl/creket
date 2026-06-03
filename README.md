@@ -1,2 +1,10 @@
-# creket
-thisismyfirst project
+requirements.txt
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+
+
